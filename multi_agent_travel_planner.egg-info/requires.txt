@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-classic
+langchain-google-genai
+langchain-community
+icalendar
+google-search-results
+fastapi
+uvicorn[standard]
+wikipedia
+ddgs
+python-dotenv

@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: multi-agent-travel-planner
+Version: 2.0.0
+Summary: Multi-agent AI travel planner using Gemini + LangChain
+Requires-Python: >=3.10
+Requires-Dist: streamlit
+Requires-Dist: langchain
+Requires-Dist: langchain-classic
+Requires-Dist: langchain-google-genai
+Requires-Dist: langchain-community
+Requires-Dist: icalendar
+Requires-Dist: google-search-results
+Requires-Dist: fastapi
+Requires-Dist: uvicorn[standard]
+Requires-Dist: wikipedia
+Requires-Dist: ddgs
+Requires-Dist: python-dotenv
